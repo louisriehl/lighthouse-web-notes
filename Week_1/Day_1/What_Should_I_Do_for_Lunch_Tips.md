@@ -6,6 +6,8 @@ Work on your code iteratively – that means in small pieces.
 
 To help you figure out how to use `hungry` and `availableTime` inside your function, try outputting their values to the Terminal as follows.
 
+Remember that when you fork and clone a gist, it creates its own repository and doesn't need to be initialized or cloned.
+
 ```javascript
 
 function whatToDoForLunch(hungry, availableTime) {
